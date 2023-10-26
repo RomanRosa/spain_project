@@ -1,1 +1,1 @@
-textblob == "*"
+textblob == "0.17.1"
